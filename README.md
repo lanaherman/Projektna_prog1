@@ -1,6 +1,6 @@
 # Projektna_prog1
 
-##Airbnb v Evropi
+## Airbnb v Evropi
 
 Analizirala bom spletno stran Airbnb, ki ponuja prenočišča po celem svetu. Ker je za cel svet podatkov preveč, se bom omejila samo na Evropo. Podatke bom pridobila s strani [INSIDE AIRBNB](http://insideairbnb.com/get-the-data.html).
 
