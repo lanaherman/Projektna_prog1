@@ -5,6 +5,7 @@
 Analizirala bom spletno stran CoinMarketCap, ki predstavi vse kriptovalute. Podatke bom pridobila s strani [CoinMarketCap](https://coinmarketcap.com/all/views/all/).
 
 Za vsako kriptovaluto bom zajela:
+* Ime kriptovalute
 * Simbol
 * Tržna kapitalizacija (število kovancev v obtoku * cena kovanca)
 * Cena
