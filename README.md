@@ -1,17 +1,20 @@
 # Projektna_prog1
 
-## Airbnb v Evropi
+## Kriptovalute
 
-Analizirala bom spletno stran Airbnb, ki ponuja prenočišča po celem svetu. Ker je za cel svet podatkov preveč, se bom omejila samo na Evropo. Podatke bom pridobila s strani [INSIDE AIRBNB](http://insideairbnb.com/get-the-data.html).
+Analizirala bom spletno stran CoinMarketCap, ki predstavi vse kriptovalute. Podatke bom pridobila s strani [CoinMarketCap](https://coinmarketcap.com/all/views/all/).
 
-Za vsako mesto bom zajela:
-* Število ponudb (vse skupaj)
-* Tip sobe
-* Dejavnost
-* Razpoložljivost
-* Število ponudb na gostitelja
+Za vsako kriptovaluto bom zajela:
+* Simbol
+* Tržna kapitalizacija (število kovancev v obtoku * cena kovanca)
+* Cena
+* Število kovancev v obtoku
+* Obseg (trgovanja (nakupi/prodaje) opravljena v zadnjih 24ih urah)
+* % spremembe v zadnji uri
+* % spremembe v zadnjem dnevu
+* % spremembe v zadnjem tednu
 
 Delovne hipoteze:
-* Število posameznih tipov sobe je odvisno od razpoložljivosti.
-* Boljše ocenjene sobe imajo večje število glasov.
-* V bolj razvitih mestih je razpoložljivost manjša.
+* Tiste kriptovalute z največjo tržno kapitalizacijo so se v zadnji uri najmanj spremenile.
+* Tržna kapitalizacija je premo sorazmerna z obsegom.
+* Ali obstaja povezava med črko v simbolu in ceno?
